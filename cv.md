@@ -2,6 +2,7 @@
 
 # rsschool-cv
 ## Tatsiana Yatsevich
+![photo](photo1.jpg)
 
 
 ### Contact information:
